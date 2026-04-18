@@ -1,4 +1,4 @@
-# Finance Data Analysis
+# Finance Analysis Dashboard
 
 *This project focuses on analyzing day-to-day personal financial data to monitor income, expenses, and savings patterns.*
 
