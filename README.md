@@ -65,6 +65,7 @@ Personal financial management lacks visibility and control, leading to high expe
 
 ### Dashboard
 
+<img width="1366" height="672" alt="FinanceDB_png" src="https://github.com/user-attachments/assets/8bc2f425-9ce8-414d-8570-660226832ab1" />
 
 
 
